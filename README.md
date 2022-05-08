@@ -1,15 +1,15 @@
 ### Hello I'm Faith Olopade 👋
 ## 🎓 I'm an Integrated Computer Science Student
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on:
 
   - My Own Projects
   
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning: 
 
   - Java
   
-- 🤔 I’m interested in 
+- 🤔 I’m interested in: 
 
   - Cyber Security
   
