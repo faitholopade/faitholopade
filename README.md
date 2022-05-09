@@ -9,6 +9,12 @@
 
   - Java
   
+  - Verilog
+  
+  - Processing
+  
+  - Arm Assembly
+  
 - 🤔 I’m interested in: 
 
   - Cyber Security
