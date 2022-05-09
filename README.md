@@ -25,6 +25,9 @@
 
   - [Discord](https://discord.gg/rZuunpWU)
   
+  - [HackerRank](https://www.hackerrank.com/olopadef?hr_r=1)
+  
+  
 - 📈 My Github Stats so far this year:
 
   <a href="https://github.com/olopadef">
