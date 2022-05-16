@@ -13,6 +13,8 @@
   
   - Arm Assembly
   
+  - C
+  
 - 🤔 I’m interested in: 
 
   - Cyber Security
