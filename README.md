@@ -11,7 +11,7 @@
   
   - Verilog
   
-  - Arm Assembly
+  - ARM Assembly
   
   - C
   
