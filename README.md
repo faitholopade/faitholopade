@@ -11,6 +11,8 @@
   
   - Verilog
   
+  - VHDL
+  
   - ARM Assembly
   
   - C
