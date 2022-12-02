@@ -9,11 +9,7 @@
 
   - Java
   
-  - Verilog
-  
-  - VHDL
-  
-  - ARM Assembly
+  - Python
   
   - C
   
