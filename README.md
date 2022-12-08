@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on:
 
-  - My Own Projects
+  - Personal Projects
+  
+  - College Projects
   
 - 🌱 I’m currently learning: 
 
