@@ -39,11 +39,11 @@
 - 📈 My Github Stats so far this year:
 
   <a href="https://github.com/faitholopade">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olopadef&show_icons=true&theme=light&line_height=40" alt="Faith's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=faitholopade&show_icons=true&theme=light&line_height=40" alt="Faith's github stats"/>
   </a>
 
   <a href="https://github.com/faitholopade">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olopadef&theme=light&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faitholopade&theme=light&hide_langs_below=1" />
   </a>
 
 <!--
