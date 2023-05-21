@@ -9,19 +9,23 @@
   
 - 🌱 I’m currently learning: 
 
-  - Java
+  - C#
   
-  - Python
+  - Javascript, Typescript, HTML & CSS
   
-  - C
+  - React.js & Angular
   
 - 🤔 I’m interested in: 
 
-  - Cyber Security
-  
-  - Software Development
-  
-  - Software Engineering
+  - Software Engineering/Development
+
+  - Project Management
+
+  - Machine Learning
+
+  - AI 
+
+  - Cybersecurity
   
 - 📫 How to reach me:
 
