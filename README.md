@@ -35,9 +35,6 @@
 
   - [Discord](https://discord.gg/rZuunpWU)
   
-  - [HackerRank](https://www.hackerrank.com/olopadef?hr_r=1)
-  
-  - [LeetCode](https://leetcode.com/faitholopade/)
   
   
 - 📈 My Github Stats so far this year:
