@@ -9,11 +9,9 @@
   
 - 🌱 I’m currently learning: 
 
-  - C#
+  - C++
   
-  - Javascript, Typescript, HTML & CSS
-  
-  - React.js & Angular
+  - OpenGL
   
 - 🤔 I’m interested in: 
 
