@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:olopadef@tcd.ie"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/faitholopade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.gg/rZuunpWU"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <h2 align="center">📈 My GitHub Stats</h2>
