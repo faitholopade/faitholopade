@@ -1,4 +1,5 @@
-### Hello I'm Faith Olopade 👋
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22"/></h1>
+
 ## 🎓 I'm an Integrated Computer Science Student
 
 - 🔭 I’m currently working on:
