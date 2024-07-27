@@ -4,27 +4,6 @@
 
 <p align="center"><img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub" width="80%"/></p>
 
-<h2 align="center">🔭 I’m currently working on:</h2>
-<ul align="center">
-  <li>Personal Projects</li>
-  <li>College Projects</li>
-</ul>
-
-<h2 align="center">🌱 I’m currently learning:</h2>
-<ul align="center">
-  <li>C++</li>
-  <li>OpenGL</li>
-</ul>
-
-<h2 align="center">🤔 I’m interested in:</h2>
-<ul align="center">
-  <li>Software Engineering/Development</li>
-  <li>Project Management</li>
-  <li>Machine Learning</li>
-  <li>AI</li>
-  <li>Cybersecurity</li>
-</ul>
-
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
   <a href="mailto:olopadef@tcd.ie"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
