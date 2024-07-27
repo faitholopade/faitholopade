@@ -5,22 +5,19 @@
 <p align="center"><img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub" width="80%"/></p>
 
 <h2 align="center">🔭 I’m currently working on:</h2>
-
-<ul>
+<ul align="center">
   <li>Personal Projects</li>
   <li>College Projects</li>
 </ul>
 
 <h2 align="center">🌱 I’m currently learning:</h2>
-
-<ul>
+<ul align="center">
   <li>C++</li>
   <li>OpenGL</li>
 </ul>
 
 <h2 align="center">🤔 I’m interested in:</h2>
-
-<ul>
+<ul align="center">
   <li>Software Engineering/Development</li>
   <li>Project Management</li>
   <li>Machine Learning</li>
@@ -29,25 +26,21 @@
 </ul>
 
 <h2 align="center">📫 How to reach me:</h2>
-
 <p align="center">
   <a href="mailto:olopadef@tcd.ie"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/faitholopade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.gg/rZuunpWU"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-```
-  
-  
-  
-- 📈 My Github Stats so far this year:
 
+<h2 align="center">📈 My GitHub Stats so far this year:</h2>
+<p align="center">
   <a href="https://github.com/faitholopade">
-   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faitholopade&show_icons=true&theme=light&line_height=40" alt="Faith's github stats"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faitholopade&show_icons=true&theme=light&line_height=40" alt="Faith's GitHub stats"/>
   </a>
-
   <a href="https://github.com/faitholopade">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faitholopade&theme=light&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faitholopade&theme=light&hide_langs_below=1" alt="Faith's top languages"/>
   </a>
+</p>
 
 <!--
 **faitholopade/faitholopade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
