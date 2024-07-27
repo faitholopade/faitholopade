@@ -1,38 +1,41 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22"/></h1>
 
-## 🎓 I'm an Integrated Computer Science Student
+<p align="center">My name is Faith Olopade and I'm an Integrated Computer Science Student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>. I have a deep passion for technology and I love to code.</p>
 
-- 🔭 I’m currently working on:
+<p align="center"><img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub" width="80%"/></p>
 
-  - Personal Projects
-  
-  - College Projects
-  
-- 🌱 I’m currently learning: 
+<h2 align="center">🔭 I’m currently working on:</h2>
 
-  - C++
-  
-  - OpenGL
-  
-- 🤔 I’m interested in: 
+<ul>
+  <li>Personal Projects</li>
+  <li>College Projects</li>
+</ul>
 
-  - Software Engineering/Development
+<h2 align="center">🌱 I’m currently learning:</h2>
 
-  - Project Management
+<ul>
+  <li>C++</li>
+  <li>OpenGL</li>
+</ul>
 
-  - Machine Learning
+<h2 align="center">🤔 I’m interested in:</h2>
 
-  - AI 
+<ul>
+  <li>Software Engineering/Development</li>
+  <li>Project Management</li>
+  <li>Machine Learning</li>
+  <li>AI</li>
+  <li>Cybersecurity</li>
+</ul>
 
-  - Cybersecurity
-  
-- 📫 How to reach me:
+<h2 align="center">📫 How to reach me:</h2>
 
-  - [Email](mailto:olopadef@tcd.ie)
-
-  - [LinkedIn](https://www.linkedin.com/in/faitholopade)
-
-  - [Discord](https://discord.gg/rZuunpWU)
+<p align="center">
+  <a href="mailto:olopadef@tcd.ie"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/faitholopade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.gg/rZuunpWU"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+```
   
   
   
