@@ -2,8 +2,6 @@
 
 <p align="center">My name is Faith Olopade and I'm an Integrated Computer Science Student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>. I have a deep passion for technology and I love to code.</p>
 
-<p align="center"><img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub" width="80%"/></p>
-
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
   <a href="mailto:olopadef@tcd.ie"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
