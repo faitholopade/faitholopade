@@ -2,14 +2,14 @@
 
 <p align="center">My name is Faith Olopade and I'm an Integrated Computer Science Student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>. I have a deep passion for technology and I love to code.</p>
 
-<h2 align="center">📫 How to reach me:</h2>
+<h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
   <a href="mailto:olopadef@tcd.ie"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/faitholopade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.gg/rZuunpWU"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<h2 align="center">📈 My GitHub Stats so far this year:</h2>
+<h2 align="center">📈 My GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/faitholopade">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faitholopade&show_icons=true&theme=light&line_height=40" alt="Faith's GitHub stats"/>
