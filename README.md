@@ -1,24 +1,31 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22"/></h1>
+# Hi, I'm Faith Olopade
 
-<p align="center">My name is Faith Olopade and I'm a MSc Computer Science Student at <a href="https://www.tcd.ie/">Trinity College Dublin</a>. I have a deep passion for technology and I love to code.</p>
+I am a Computer Science student at Trinity College
+Dublin, passionate about applying technology to real-world problems.
+My interests span AI systems, data analysis, cybersecurity, economics,
+financial technologies, and technology policy and ethics.
 
-<h2 align="center">📫 How to Reach Me</h2>
-<p align="center">
-  <a href="mailto:olopade.faith1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/faitholopade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-<!--
-**faitholopade/faitholopade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have gained industry experience through three Microsoft
+internships and two Intel internships, where I focused on how data
+and intelligent systems can support better decision making.
 
-Here are some ideas to get you started:
+I am grateful to have received several awards and scholarships,
+including:
+- Web Summit Scholarship
+- European Central Bank Scholarship
+- Trinity College Dublin Gold Medal
+- Prof. John G. Byrne Scholarship
+- Intel Women in Technology Scholarship
+- McLaren Racing NEXT Scholarship
+- Huawei Seeds for the Future Scholarship
 
-- 🔭 I’m currently working on My Own Projects
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-<a href="mailto:olopadef@tcd.ie?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy research, building impactful systems, and contributing to
+meaningful collaborative projects.
+
+If you'd like to connect or collaborate, feel free to reach out:
+olopadef@tcd.ie
+
+## Contact
+
+-   Email: olopadef@tcd.ie
+-   LinkedIn: https://www.linkedin.com/in/faitholopade
