@@ -22,8 +22,7 @@ including:
 I enjoy research, building impactful systems, and contributing to
 meaningful collaborative projects.
 
-If you'd like to connect or collaborate, feel free to reach out:
-olopadef@tcd.ie
+If you'd like to connect or collaborate, feel free to reach out.
 
 ## Contact
 
